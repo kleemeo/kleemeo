@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/kleeio-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://www.linkedin.com/in/kleeio/](https://img.shields.io/badge/kleeio-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 <!--
