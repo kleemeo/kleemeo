@@ -3,7 +3,7 @@
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleeio/)
 [![Twitter](https://img.shields.io/badge/klee_io-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/klee_io)
-[![Gmail](https://img.shields.io/badge/leenexer@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:leenexer@gmail.com?subject=Hi_Kelvin!)
+[![Gmail](https://img.shields.io/badge/leenexer@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leenexer@gmail.com?subject=Hi_Kelvin!)
 
 ### Current Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
