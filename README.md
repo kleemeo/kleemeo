@@ -2,8 +2,6 @@
 
 # A content creator turned developer, I build beautiful and meaningful web experiences via clean and accessible code.
 
-I am currently open to remote work / full-time role with a focus on frontend engineering/react/javascript
-
 My site is live @ [kelvinlee.dev](https://kelvinlee.dev/)
 
 ### 📫 Socials
