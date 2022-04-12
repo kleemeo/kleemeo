@@ -1,6 +1,6 @@
 ### Hello, it's Kelvin 👋🏼
 
-# A content creator turned developer, I build beautiful and meaningful web experiences via clean and accessible code.
+# A content creator turned developer, I aspire build beautiful and meaningful web experiences via clean and accessible code.
 
 My site is live @ [kelvinlee.dev](https://kelvinlee.dev/)
 
