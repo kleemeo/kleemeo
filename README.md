@@ -1,6 +1,6 @@
 #### Hello, it's Kelvin 👋🏼
 
-A content creator turned Software Engineer with 2 years of experience in front-end engineering and building scalable web applications using modern React/Typescript/Javascript/Node tools and libraries. I aspire to build beautiful and meaningful web experiences via clean and accessible code.
+A content creator turned Software Engineer with 2yrs+ of experience in front-end engineering and building scalable web applications using modern React/Typescript/Javascript/Node tools and libraries. I aspire to build beautiful and meaningful web experiences via clean and accessible code.
 
 My Astro site is live @ [kelvinlee.dev](https://kelvinlee.dev/)
 
